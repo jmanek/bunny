@@ -1,0 +1,9 @@
+[submodule "external/libigl"]
+	path = external/libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "external/eigen"]
+	path = external/eigen
+	url = https://github.com/libigl/eigen.git
+[submodule "external/platonic_solid"]
+	path = external/platonic_solid
+	url = https://github.com/jmanek/platonic_solid.git
